@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Instagram</string>
+    <string name="title_activity_register">Register</string>
+    <string name="title_activity_login">Login</string>
+    <string name="usernameLoginEditText">Phone number, email address or username</string>
+    <string name="passwordLoginEditText">Password</string>
+    <string name="loginBtn">Log in</string>
+    <string name="registerBtn">Register</string>
+    <string name="editProfileBtn">Edit profile</string>
+    <string name="dontHaveAcc">Don\'t have an account? Sign up.</string>
+    <string name="postsStatic">posts</string>
+    <string name="followersStatic">followers</string>
+    <string name="followingStatic">following</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
